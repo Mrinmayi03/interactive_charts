@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/interactive_charts/static/css/main.7d7e42a6.css",
-    "main.js": "/interactive_charts/static/js/main.a6621f44.js",
-    "static/js/453.3f41f791.chunk.js": "/interactive_charts/static/js/453.3f41f791.chunk.js",
-    "index.html": "/interactive_charts/index.html",
-    "main.7d7e42a6.css.map": "/interactive_charts/static/css/main.7d7e42a6.css.map",
-    "main.a6621f44.js.map": "/interactive_charts/static/js/main.a6621f44.js.map",
-    "453.3f41f791.chunk.js.map": "/interactive_charts/static/js/453.3f41f791.chunk.js.map"
+    "main.css": "/Interactive_Visualization/static/css/main.aea05eba.css",
+    "main.js": "/Interactive_Visualization/static/js/main.8045f814.js",
+    "static/js/453.3f41f791.chunk.js": "/Interactive_Visualization/static/js/453.3f41f791.chunk.js",
+    "index.html": "/Interactive_Visualization/index.html",
+    "main.aea05eba.css.map": "/Interactive_Visualization/static/css/main.aea05eba.css.map",
+    "main.8045f814.js.map": "/Interactive_Visualization/static/js/main.8045f814.js.map",
+    "453.3f41f791.chunk.js.map": "/Interactive_Visualization/static/js/453.3f41f791.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d7e42a6.css",
-    "static/js/main.a6621f44.js"
+    "static/css/main.aea05eba.css",
+    "static/js/main.8045f814.js"
   ]
 }
